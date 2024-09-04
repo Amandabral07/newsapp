@@ -1,0 +1,58 @@
+{
+    "status": "ok",
+    "totalResults": 4,
+    "articles": [
+        {
+            "source": {
+                "id": "news24",
+                "name": "News24"
+            },
+            "author": "Heinz Schenk",
+            "title": "Biggest game in Proteas history: Between a World Cup and SA cricket's future is Eden Gardens",
+            "description": "Even if Temba Bavuma doesn't quite say so, the Proteas' semi-final against Australia in Kolkata is arguably the most important game in the history of the game in South Africa.",
+            "url": "https://www.news24.com/sport/cricket/worldcup/biggest-game-in-proteas-history-between-a-world-cup-and-sa-crickets-future-is-eden-gardens-20231116",
+            "urlToImage": "https://cdn.24.co.za/files/Cms/General/d/9861/979769e1c4be4a60ae382e46ba4151ba.jpg",
+            "publishedAt": "2023-11-16T05:00:15",
+            "content": "KOLKATA - Temba Bavuma, understandably, wasn't going to be lured into giving hyperbolic answers.  \r\nThere's been too much preceding drama, too many questions over his suitability as an international … [+339 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-sport",
+                "name": "BBC Sport"
+            },
+            "author": null,
+            "title": "Kohli and Shami lead India to World Cup final",
+            "description": "Virat Kohli hits a record-breaking century and Mohammed Shami claims 7-57 to help India book their place in the Cricket World Cup final after a 70-run victory over New Zealand in Mumbai.",
+            "url": "http://www.bbc.co.uk/sport/av/cricket/67431239",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/C961/production/_131735515_e10bf53d-0768-402a-9ae7-f2551c951cb0.jpg",
+            "publishedAt": "2023-11-15T17:52:21.2916985Z",
+            "content": "'Race away, but don't crash' - new Brawn F1 doc. Video, 00:02:05'Race away, but don't crash' - new Brawn F1 doc"
+        },
+        {
+            "source": {
+                "id": "espn-cric-info",
+                "name": "ESPN Cric Info"
+            },
+            "author": null,
+            "title": "PCB hands Umar Akmal three-year ban from all cricket | ESPNcricinfo.com",
+            "description": "Penalty after the batsman pleaded guilty to not reporting corrupt approaches | ESPNcricinfo.com",
+            "url": "http://www.espncricinfo.com/story/_/id/29103103/pcb-hands-umar-akmal-three-year-ban-all-cricket",
+            "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1099495_800x450.jpg",
+            "publishedAt": "2020-04-27T11:41:47Z",
+            "content": "Umar Akmal's troubled cricket career has hit its biggest roadblock yet, with the PCB handing him a ban from all representative cricket for three years after he pleaded guilty of failing to report det… [+1506 chars]"
+        },
+        {
+            "source": {
+                "id": "espn-cric-info",
+                "name": "ESPN Cric Info"
+            },
+            "author": null,
+            "title": "What we learned from watching the 1992 World Cup final in full again | ESPNcricinfo.com",
+            "description": "Wides, lbw calls, swing - plenty of things were different in white-ball cricket back then | ESPNcricinfo.com",
+            "url": "http://www.espncricinfo.com/story/_/id/28970907/learned-watching-1992-world-cup-final-full-again",
+            "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1219926_1296x729.jpg",
+            "publishedAt": "2020-03-30T15:26:05Z",
+            "content": "Last week, we at ESPNcricinfo did something we have been thinking of doing for eight years now: pretend-live ball-by-ball commentary for a classic cricket match. We knew the result, yes, but we tried… [+6823 chars]"
+        }
+    ]
+}
